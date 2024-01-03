@@ -17,7 +17,7 @@
      + 肉の中心温度の目安(ウィルスなどの死滅のための温度)
        - 75度1分
        - 65度10分
-       - 63度30分
+       - 63度30分(65度以下で死滅しないウイルスもあるそうです)
      + E型肝炎ウィルスや旋毛虫（トリヒナ）は冷凍では死滅しません
   2. ジビエ肉の安全な取り扱い
      + 生肉,冷凍ジプロックなどを扱う際は「調理用ニトリル手袋」を使うこと
@@ -67,7 +67,7 @@
      + 参考
        - ジビエ肉の危険性(厚労省)
          + https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/syokuchu/01_00021.html
-       - E型肝炎ウイルスの感染事例・Ｅ型肝炎Ｑ＆Ａ
+       - E型肝炎ウイルスの感染事例・Ｅ型肝炎Ｑ＆Ａ(厚労省)
          + https://www.mhlw.go.jp/houdou/2003/08/h0819-2a.html
        - E型肝炎の近年傾向(NIID:国立感染症研究所)
          + https://www.niid.go.jp/niid/ja/hepatitis-e-m/hepatitis-e-iasrtpc/10837-502t.html
